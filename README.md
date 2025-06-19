@@ -50,6 +50,7 @@ c.	Test the tool box:
 
 imshow(nii.img(:,:,50), []);
 
+4.    run Gliomap.m  file
 
 ## User Guide
 For the user Guide see the [User_guide](user_guide) file
